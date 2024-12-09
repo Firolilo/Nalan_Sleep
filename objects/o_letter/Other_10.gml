@@ -5,3 +5,7 @@ ds_queue_enqueue(global.list_chat,"Usa la tecla 'espacio' para adelantar los dia
 ds_queue_enqueue(global.list_chat,"Tercer dialogo");
 
 instance_create_layer(0,0,"GUI",o_chat);
+
+
+global.previous_room = room;
+room_goto(target)

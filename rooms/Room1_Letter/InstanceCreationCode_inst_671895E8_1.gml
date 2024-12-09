@@ -1,2 +1,3 @@
+
 target = Room1;
-ori = 90;
+ori = 270;

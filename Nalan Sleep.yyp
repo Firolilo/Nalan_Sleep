@@ -10,6 +10,7 @@
     {"id":{"name":"f_change_weapon","path":"scripts/f_change_weapon/f_change_weapon.yy",},"order":1,},
     {"id":{"name":"TileSet45","path":"tilesets/TileSet45/TileSet45.yy",},"order":4,},
     {"id":{"name":"s_axe_up","path":"sprites/s_axe_up/s_axe_up.yy",},"order":3,},
+    {"id":{"name":"Nalan_Sleep","path":"sprites/Nalan_Sleep/Nalan_Sleep.yy",},"order":12,},
     {"id":{"name":"s_hit_dmg","path":"sprites/s_hit_dmg/s_hit_dmg.yy",},"order":2,},
     {"id":{"name":"o_hit_dmg","path":"objects/o_hit_dmg/o_hit_dmg.yy",},"order":1,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
@@ -84,6 +85,7 @@
     {"id":{"name":"o_respawn","path":"objects/o_respawn/o_respawn.yy",},"order":2,},
     {"id":{"name":"o_game_start","path":"objects/o_game_start/o_game_start.yy",},"order":1,},
     {"id":{"name":"s_shadow_walk_down","path":"sprites/s_shadow_walk_down/s_shadow_walk_down.yy",},"order":3,},
+    {"id":{"name":"Room1_Letter","path":"rooms/Room1_Letter/Room1_Letter.yy",},"order":3,},
     {"id":{"name":"s_box","path":"sprites/s_box/s_box.yy",},"order":5,},
     {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},"order":0,},
     {"id":{"name":"s_shadow","path":"sprites/s_shadow/s_shadow.yy",},"order":16,},
@@ -127,6 +129,7 @@
     {"roomId":{"name":"Room_menu","path":"rooms/Room_menu/Room_menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room1_Letter","path":"rooms/Room1_Letter/Room1_Letter.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
@@ -151,13 +154,13 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Control","folderPath":"folders/Sprites/Control.yy","order":4,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Effects","folderPath":"folders/Sprites/Effects.yy","order":5,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemies","folderPath":"folders/Sprites/Enemies.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shadow","folderPath":"folders/Sprites/Enemies/Shadow.yy","order":6,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Map","folderPath":"folders/Sprites/Map.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Sprites/Objects.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/Player.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"atts","folderPath":"folders/Sprites/Player/atts.yy","order":21,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":8,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shadow","folderPath":"folders/Sprites/Enemies/Shadow.yy","order":6,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
@@ -165,7 +168,9 @@
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"DALL·E 2024-12-09 13.25.33 - A digital painting inspired by the style of Silent Hill game covers, featuring a person with long, white hair tied up in a high ponytail, standing in .webp","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "MetaData": {
     "IDEVersion": "2022.0.3.85",
   },
