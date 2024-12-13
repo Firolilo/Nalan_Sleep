@@ -1,0 +1,1 @@
+text_list[0] = "No creo poder moverlo..."

@@ -5,7 +5,7 @@ hp = 50;
 dmg = 15;
 
 speed_max = 3;
-wait_time = 20;
+wait_time = 3;
 move_time = 30;
 
 // Control -------------

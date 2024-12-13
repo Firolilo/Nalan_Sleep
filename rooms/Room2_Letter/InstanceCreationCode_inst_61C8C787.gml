@@ -1,0 +1,1 @@
+text_list[0] = "Un cuadro regalado por mamá"

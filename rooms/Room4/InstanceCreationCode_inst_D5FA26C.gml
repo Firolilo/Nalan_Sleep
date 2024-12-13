@@ -1,0 +1,5 @@
+text_list[0] = "La puerta esta trabada..."
+text_list[1] = "..."
+text_list[2] = "No se abre... Por que no se abre?"
+text_list[3] = "Crei que podia volver. Crei que... podia seguir ignorandolo."
+text_list[4] = "Pero esta trabada..."
