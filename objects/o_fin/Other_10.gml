@@ -1,6 +1,6 @@
 /// @description Interact
 
-if(global.puzzles_completed > 2)
+if(global.puzzles_completed == 2)
 {
 	ds_queue_enqueue(global.list_chat, "Ya no hay mas que buscar...");
 	ds_queue_enqueue(global.list_chat, "Todas las piezas estan aqui, frente a ti.");

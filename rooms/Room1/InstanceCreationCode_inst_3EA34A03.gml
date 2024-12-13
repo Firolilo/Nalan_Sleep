@@ -1,0 +1,1 @@
+text_list[0] = "Parece que no las regaron hace bastante tiempo"

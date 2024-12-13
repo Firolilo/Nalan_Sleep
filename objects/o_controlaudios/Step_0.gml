@@ -5,6 +5,7 @@ if(!win){
 		audio_play_sound(so_full_song_memory,1,10,1,94);
 		win=1;
 		f_used();
+		global.puzzles_completed++;	
 		instance_destroy();
 	}
 }

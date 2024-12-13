@@ -17,7 +17,11 @@ if(instance_exists(o_medanmiedomujeres)){
 					f_used();
 					instance_destroy();
 				}
+				
+				global.puzzles_completed++;
+				
 				obj = instance_create_layer(0,0,"GUI",o_chat);
+				
 			}
 		}
 		else{
